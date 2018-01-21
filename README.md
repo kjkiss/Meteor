@@ -10,7 +10,9 @@ http://www.tothis.cn<br>
         ubuntu
         node.js
 
-        ggggggg,kkkkkkk
+        function f(){
+            return 0;
+        }
                 cccccc
 
 windows
