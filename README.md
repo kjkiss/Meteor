@@ -25,8 +25,6 @@ http://www.tothis.cn<br>
             return 0;
         }
              
-中国
-
 windows
 ---
 ubuntu
