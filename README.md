@@ -13,9 +13,9 @@
 ===
 ## build
 
-this is a good doc<br>i love it
-http://www.tothis.cn<br>
-    i love u    meto
+1. this is a good doc<br>i love it
+2. http://www.tothis.cn<br>
+    3. i love u    meto
     this is good
 `meteor` 
         ubuntu
