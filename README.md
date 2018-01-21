@@ -9,9 +9,9 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-Meteor
+# Meteor
 ===
-build
+## build
 ---
 this is a good doc<br>i love it
 http://www.tothis.cn<br>
@@ -25,7 +25,7 @@ http://www.tothis.cn<br>
             return 0;
         }
              
-windows
+## windows
 ---
-ubuntu
+## ubuntu
 -----
