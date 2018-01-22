@@ -7,9 +7,9 @@ function abc(){
 }
 ```
 ### To-do List
--[x] abc
--[x] def
-  -[x] aaa
-  -[x] bbb
--[] ccc
--[] ddd
+- [x] abc
+- [x] def
+  - [x] aaa
+  - [x] bbb
+- [ ] ccc
+- [ ] ddd
