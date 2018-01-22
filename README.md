@@ -17,8 +17,9 @@ shell登陆Mongodb服务器<br>
 ### 环境变量设置
 
 设置环境变量（此电脑-属性-高级系统设置-环境变量）（win10）<br>
+
 变量 | 值
----|---
+--|--
 MONGO_URL | mongodb://admin:password@localhost:27017/databasename
 ROOT_URL | http://localhost
 PORT | 80
