@@ -27,13 +27,13 @@ PORT | 80
 ### Meteor 部署
 
 进入WEB项目目录<br>
-```c:\cd myweb```
+```cd myweb```
 
 部署到上级目录output<br>
 ```meteor build –server-only --directory ../output```
 
 进入到相应目录<br>
-```c:\cd output/bundle/programs/server```
+```cd output/bundle/programs/server```
 
 安装依赖包，可以不联网<br>
 ```npm install```
