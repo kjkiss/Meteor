@@ -2,6 +2,8 @@
 
 ## Windows 部署方式
 ### Mongodb 设置
+启动Mongodb服务
+```c:\mongod```
 ### 环境变量设置
 ### Meteor 部署
 
