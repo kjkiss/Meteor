@@ -7,7 +7,7 @@
 shell登陆Mongodb服务器<br>
 ```c:\mongo```<br>
 添加管理用户及权限，Meteor使用此帐号连接Mongodb服务器<br>
-```\> db.createUser({user:’admin’,pwd:’password’,roles:[‘readWrite’,’dbAdmin’]})```<br>
+```> db.createUser({user:’admin’,pwd:’password’,roles:[‘readWrite’,’dbAdmin’]})```<br>
 
 ### 环境变量设置
 ### Meteor 部署
