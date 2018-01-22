@@ -30,7 +30,19 @@ PORT | 80
 ```c:\cd myweb```
 
 部署到上级目录output<br>
-```c:\meteor build –server-only --directory ../output```
+```meteor build –server-only --directory ../output```
+
+进入到相应目录<br>
+```c:\cd output/bundle/programs/server```
+
+安装依赖包，可以不联网<br>
+```npm install```
+
+进入相应目录<br>
+```cd output/bundle```
+
+启动服务<br>
+```node main.js```
 
 ## Ubuntu 部署方式
 
