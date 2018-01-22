@@ -30,7 +30,7 @@ PORT | 80
 ```c:\cd myweb```
 
 部署到上级目录output<br>
-```c:\meteor build –server-only --directory ../output
+```c:\meteor build –server-only --directory ../output```
 
 ## Ubuntu 部署方式
 
