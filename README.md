@@ -15,6 +15,9 @@ shell登陆Mongodb服务器<br>
 ```c:\mongod --dbpath=c:\data\db --logpath=c:\data\logs\mongodb.log --port=27017 --auth```<br>
 
 ### 环境变量设置
+
+设置环境变量（此电脑-属性-高级系统设置-环境变量）(WIN10)<br>
+
 ### Meteor 部署
 
 ## Ubuntu 部署方式
