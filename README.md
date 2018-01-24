@@ -45,5 +45,6 @@ PORT | 80
 ```node main.js```
 
 ## Ubuntu 部署方式
+### Mongodb 设置
 
 ## Docker 部署方式
